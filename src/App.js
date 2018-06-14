@@ -17,7 +17,7 @@ import React, { Component } from 'react';
             this.setState({
                 usernames:[
                     {username: newusername},
-                    {username: "John Deo"},
+                    {username: "John Deo "},
                     {username: "Smith"},
                     {username: "Steve"},
                 ]
